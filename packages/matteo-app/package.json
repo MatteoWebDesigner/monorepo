@@ -9,6 +9,9 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "matteo-base-style": "0.1.0"
+  },
   "devDependencies": {
     "http-server": "^0.10.0",
     "node-sass": "^4.5.3"
