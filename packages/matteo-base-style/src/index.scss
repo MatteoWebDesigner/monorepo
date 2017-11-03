@@ -1,0 +1,16 @@
+$color-1: red;
+$color-2: blue;
+$color-3: green;
+
+body {
+    padding: 0;
+    font-family: Arial;
+}
+
+h1 {
+    color: $color-1;
+}
+
+.page {
+    background: $color-2;
+}
